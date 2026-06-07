@@ -1,5 +1,5 @@
 # Novaretail_proyect_analysis
-# Explorando drivers de comportamiento en NovaRetail+
+Explorando drivers de comportamiento en NovaRetail+
 
 ## 🎯 Objetivo
 Analizar los factores que influyen en el comportamiento de los clientes de NovaRetail+ para identificar patrones que ayuden a mejorar la retención y optimizar estrategias de marketing.
